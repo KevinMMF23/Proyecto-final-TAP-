@@ -1,0 +1,26 @@
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\bin\Debug\MenuDeTodo.exe.config
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\bin\Debug\MenuDeTodo.exe
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\bin\Debug\MenuDeTodo.pdb
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\bin\Debug\PRACTICA 3.exe
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\bin\Debug\PRACTICA 4.exe
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\bin\Debug\WF1.exe
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\bin\Debug\WF2.exe
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\bin\Debug\WF1.pdb
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\bin\Debug\WF1.exe.config
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\bin\Debug\PRACTICA 3.pdb
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\bin\Debug\PRACTICA 3.exe.config
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\bin\Debug\WF2.pdb
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\bin\Debug\WF2.exe.config
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\bin\Debug\PRACTICA 4.pdb
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\bin\Debug\PRACTICA 4.exe.config
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\obj\Debug\MenuDeTodo.csproj.AssemblyReference.cache
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\obj\Debug\MenuDeTodo.csproj.SuggestedBindingRedirects.cache
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\obj\Debug\MenuDeTodo.MenuDeTodo.resources
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\obj\Debug\MenuDeTodo.Properties.Resources.resources
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\obj\Debug\MenuDeTodo.csproj.GenerateResource.cache
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\obj\Debug\MenuDeTodo.csproj.CoreCompileInputs.cache
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\obj\Debug\MenuDeTodo.csproj.CopyComplete
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\obj\Debug\MenuDeTodo.exe
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\obj\Debug\MenuDeTodo.pdb
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\obj\Debug\MenuDeTodo.IniciarSesion.resources
+C:\Users\68623\Desktop\MenuDeTodo\MenuDeTodo\obj\Debug\MenuDeTodo.Registrarse.resources
